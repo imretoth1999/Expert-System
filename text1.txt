@@ -1,0 +1,12 @@
+#comentariu
+B => A  
+D + E => B #nsdad
+G + H => F 
+I + J => G #nu afecteaza cu nimic nici un comentariu
+G => H 
+L + M => K 
+O + P => L + N 
+N => M 
+=DEIJOP
+?AFKP
+#AFKP true
